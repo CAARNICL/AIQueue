@@ -2,20 +2,24 @@
 AIQueue tracks your line in the Queue of Lost Ark and send it to you via telegram
 
 
-You need to know your Telegram chatid (https://youtu.be/-lZoBk4oQvI)
+You need to know your Telegram chatid 
 
-1) Add the Bot to your Telegram Account
+Watch (https://youtu.be/-lZoBk4oQvI)
+
+1) Download AIQueue https://github.com/CAARNICL/AIQueue/releases/tag/v1.0.0
+
+2) Add the Bot to your Telegram Account
 https://t.me/AI_Queue_Bot 
 
 ![image](https://user-images.githubusercontent.com/6249618/153773927-38d55242-fe5f-43fc-8d0f-5599ca52b38d.png)
 
-2) Click on Start/restart Bot
+3) Click on Start/restart Bot
 
 ![image](https://user-images.githubusercontent.com/6249618/153773985-19d52e5c-ce78-4983-b190-562cdb8e81c4.png)
 
-3) Set your ChatId
-4) Set the Timerinterval
-5) Click on "Capture"
+4) Set your ChatId
+5) Set the Timerinterval
+6) Click on "Capture"
 
 ![image](https://user-images.githubusercontent.com/6249618/153774484-8d5aa17e-94a8-44fa-ad28-0794d66d232b.png)
 
